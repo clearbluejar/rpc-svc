@@ -1,5 +1,24 @@
 RPCSVC
 
+The RPCSVC program demonstrates how to implement an NT system service that 
+uses RPC.
+
+
+
+TODO: 
+
+- [] convery to vstudio solution
+- [] make build with msbuild github
+- [] fix bugs
+- [] make it work on win 11
+- [] publish release
+
+
+---
+
+# Original README 
+
+> Source: https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/Win7Samples/netds/rpc/rpcsvc
 
 The RPCSVC program demonstrates how to implement an NT system service that 
 uses RPC.
