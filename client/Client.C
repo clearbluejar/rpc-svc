@@ -26,7 +26,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <rpc.h>
-#include "rpcsvc.h"
+#include "RPCsvc_h.h"
 
 void Usage(void)
 {

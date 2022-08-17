@@ -32,7 +32,7 @@
 #include <tchar.h>
 #include <rpc.h>
 #include "service.h"
-#include "rpcsvc.h"
+#include "RPCsvc_h.h"
 
 //
 // RPC configuration.
