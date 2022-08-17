@@ -7,7 +7,7 @@ uses RPC.
 
 TODO: 
 
-- [] convery to vstudio solution
+- [X] convert to vstudio solution
 - [] make build with msbuild github
 - [] fix bugs
 - [] make it work on win 11
