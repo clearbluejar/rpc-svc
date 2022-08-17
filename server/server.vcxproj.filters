@@ -15,15 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Server.c">
+    <ClCompile Include="Server.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Service.C">
+    <ClCompile Include="Service.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\IDL\RPCsvc_s.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Service.H">
+    <ClInclude Include="Service.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\IDL\RPCsvc_h.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
